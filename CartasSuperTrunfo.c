@@ -32,7 +32,7 @@ int main()
     getchar();
 
     // Carta 2
-    printf("Digite o estado de A - H (Carta 2): ");
+    printf("\nDigite o estado de A - H (Carta 2): ");
     scanf("%c", &estado_carta2);
 
     printf("Digite o código (Carta 2): ");
